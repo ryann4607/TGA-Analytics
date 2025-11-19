@@ -1,0 +1,5 @@
+{
+  "name": "The Game Awards Insights",
+  "description": "Interactive dashboard visualizing Game Awards history, winners, nominees, and development insights powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
